@@ -1,0 +1,7 @@
+Tamaño del buffer: 4
+Mensaje original: aababacbaacbaadaaa
+Mensaje comprimido: [(0, 'a'), (0, 'a'), (0, 'b'), (0, 'a'), (0, 'b'), (0, 'a'), (0, 'c'), (0, 'b'), (0, 'a'), (1, 4, 4), (0, 'a'), (0, 'd'), (0, 'a'), (0, 'a'), (0, 'a')]
+Mensaje descomprimido: aababacbaacbaadaaa
+Tamaño original: 18 bytes
+Tamaño comprimido: 151 bytes
+Tasa de compresión: -738.89%
